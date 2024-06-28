@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1group-title="မြန်မာTVချန်နယ်"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvuWqSi4n_3NfR3u7Mla8eK54w1nlahQkzrg&s", Pyone Play Music
+https://pplive.comquas.com:5443/LiveApp/streams/y5IK976tl6z71683227450164.m3u8
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgJKrIP9z9m7R5dNanizlp5XSrEkqShlLFxA&s"group-title="မြန်မာTVချန်နယ်",MRTV 4
+https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBIwbojrXMCSIbrksIDTcWwnqQTahvujn5og&usqp=CAU"group-title="မြန်မာTVချန်နယ်",Channel 7
+https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZWYihfm9P92j7QZ_U6QM0R9N_ghfDuB-WIQ&s"group-title="မြန်မာTVချန်နယ်",မဟာဗောဓိ
+https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_paRfgQXapxLdnabFOLFAXfo2ZXUrqiKhjw&s"group-title="Esports", Mobile Legend Live 1
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718206183/ei/hmppZtefPLSH4-EP08eZyAk/ip/37.111.43.70/id/S_8xS-q-wLM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/siu/1/spc/UWF9f6FAT6tmDpC64HL6ZQWE0X7iP6GyGE4UqYJh5oxoOSE9vMuA1XDSUuKX76plY7N3S5uYRk-lWN8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKJI5xUN61_ULncel3lodvHrWRJXlg1E0XdIAYw84WC1AiBm_YEsXdjuxG8izUkZTaloIgK-FRYADakBvYDWXgneIw%3D%3D/file/index.m3u8
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_paRfgQXapxLdnabFOLFAXfo2ZXUrqiKhjw&s"group-title="Esports", Mobile Legend Live 2
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717850527/ei/P_1jZuCCIL6p4t4Ph6iBqAo/ip/37.111.43.45/id/WuySPEEER-U.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/spc/UWF9fxBgJsZ_GKkhi-jAuA783uCSBRzBwAHlr0NTF_XfJWPNmlzAJIG4V8mgdZrkRQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgI76AFNf4FGt6XEpspScJKNRrwEmjAYp0_tmC3t-sCHYCICKko7DzOoT89YVnhP3lIuaWdBEf3sBAF5a_6FEEJmxI/file/index.m3u8
+
+#EXTINF:-1tvg-logo="https://maharesports.com/wp-content/uploads/2022/10/MahareSports-Web-logo.png"group-title="Esports", Mahar Esports
+https://tv.mahar.live/esports/mahar.stream/esports/mahar3/chunks.m3u8
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0kUWYKS0huPT8ABO2Su772VSblsGzDZ5NXg&s"group-title="မြန်မာTVချန်နယ်", မဟာ
+https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTzzCM7xqq0YRQmxa2ij-nVTBsNCoPfpfvdQ&s"group-title="မြန်မာTVချန်နယ်",Channel K
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_mobile/index.m3u8
+
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/Myanmar_National_TV_Logo.jpg"group-title="မြန်မာTVချန်နယ်",MNTV
+http://5a13fe32ef748.streamlock.net/mmplay/mntv/chunklist_w2113060193.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMjQgNzoxNTowNSBBTSZoYXNoX3ZhbHVlPUVXUlV1ZzJKVHQwWXlKTXpVNlRnTHc9PSZ2YWxpZG1pbnV0ZXM9NjAmc3RybV9sZW49MTE%3D
+
+#EXTINF:-1tvg-logo="",Fortune
+#EXTVLCOPT:http-user-agent=nimblesessionid=587577&wmsAuthSign=c2VydmVyX3RpbWU9Ni8zLzIwMjQgMjoyMDozNiBQTSZoYXNoX3ZhbHVlPUdSaEgxS3dkL1hYRkorRjcwdzJuVmc9PSZ2YWxpZG1pbnV0ZXM9NjAmc3RybV9sZW49NDU=
+http://streammain.myanmartvchannels.com:999/website-fortune-stream/website-fortune-stream/chunks.m3u8
+
+#EXTINF:-1tvg-logo="",fortune
+#EXTVLCOPT:http-referer=https://www.myanmartvchannels.com/
+https://www.myanmartvchannels.com/fortune.m3u8
+
+#EXTINF:-1tvg-logo="https://dribbble.com/shots/10823052-MMA-Mascot-logo/attachments/2475207?mode=media "group-title="SPORTS", MMA FIGHT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719605021/ei/vMJ-ZrLiOuKkjuMP-KmK6Ak/ip/37.111.43.46/id/ZrzwJCnPhbE.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/maxh/4320/gcr/mm/siu/1/spc/UWF9f0b7g9cRsSeFoaSqibNo-qhdwZJAbm0l1x8q6nL3tD_is99VlFqNzcYicPDSLoZeHN2m3J56vjE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cgcr%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgPmHBtl66hgW9hMGfIBs3RNUoTGdT9TiVRAKD8ZzcP50CIQC9x2XCoCyx8e8vfuhD0UNsR4_FI4KFhEeLTmCY9-lpfQ%3D%3D/file/index.m3u
